@@ -72,5 +72,7 @@ It is implemented with the help of STM32 with the desired operation of turning o
 
 ![bbblock drawio](https://user-images.githubusercontent.com/68462123/167984421-07c6bd73-eee2-4fa9-bbc4-234f08e239c1.png)
 
+## Flowchart 
 
+![flow drawio](https://user-images.githubusercontent.com/68462123/167984507-39e7a274-725d-4490-9e44-343fc49e0197.png)
 
