@@ -63,6 +63,11 @@ To get a clear vision of the road.
 
 It is implemented with the help of STM32 with the desired operation of turning on the engine, changing of speeds and turning off with the help of Embedded c Programming.
 ## Goal
+1. To savegaurd  from accidents.
+
+2. To Prevent wheather conditions.
+
+
 ## Block Diagram
-bbblock drawio
+
 
