@@ -15,4 +15,17 @@ A Wiper Speed Control System Controls the operational speed of the wiper in acco
 ## Aim 
 To prevent Accidents during rainy weather
 
+## SWOT ANALYSIS
+Strength
+The wiper comes back to default position even if stooped in the middle
+Safety for the driver as well as the passengers in the vehicle
+Clear Visibility to the Driver for neat ride.
+
+Weakness
+The total cost of the wiper system is high if implemented in real-time.
+The major disadvantage is that STM32 contains only one button for all the operation
+User has to undergo a sequence to acquire desired result and can't attain his result directly with the press of the button.
+Opportunities
+Rain sensing and automatic operation can be implemented as further enhancement.
+
 
