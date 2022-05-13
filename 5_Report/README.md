@@ -17,7 +17,7 @@ To prevent Accidents during rainy weather
 
 ## SWOT ANALYSIS
 
-Strength
+## Strength
 
 #The wiper comes back to default position even if stooped in the middle
 
@@ -25,15 +25,42 @@ Strength
 
 #Clear Visibility to the Driver for neat ride.
 
-Weakness
+## Weakness
+
 #The total cost of the wiper system is high if implemented in real-time.
 
 #The major disadvantage is that STM32 contains only one button for all the operation
 
 #User has to undergo a sequence to acquire desired result and can't attain his result directly with the press of the button.
 
-Opportunities
+## Opportunities
 
-#Rain sensing and automatic operation can be implemented as further enhancement.
+ Rain sensing and automatic operation can be implemented as further enhancement.
+
+## 5WS AND 1H
+
+## WHAT
+
+It is Wiper Control system which is generally deployed in all the automobiles in order to ensure safety for the passengers and drivers during rainy conditions.
+
+## WHERE
+
+It is an element which is present in the windshield of the automobile.
+
+## WHO
+
+It is highly useful for drivers of any kind of automobile who needs clear vision of the road in case of dust or rain.
+
+## WHEN
+
+It is recommended to operate during dust or rain
+
+## WHY
+
+To get a clear vision of the road.
+
+## HOW
+
+It is implemented with the help of STM32 with the desired operation of turning on the engine, changing of speeds and turning off with the help of Embedded c Programming.
 
 
